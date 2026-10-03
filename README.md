@@ -1,5 +1,5 @@
 # Hi, I'm Ginay! 👋
--🎓 First-year Software Engineering student at **Karadeniz Technical University**.
+- 🎓 First-year Software Engineering student at **Karadeniz Technical University**.
 
 # Current Focus:
 - ✒️ Focusing on my university coursework.
