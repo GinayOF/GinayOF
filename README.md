@@ -9,7 +9,7 @@
 
 # Skills
 - Languages: [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-- Tools: [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+- Tools & Frameworks: [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 # Feel free to reach out!
 - 📧 Email: ginayomerfaruk@gmail.com
