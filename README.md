@@ -2,7 +2,7 @@
 - 🎓 First-year Software Engineering student at **Karadeniz Technical University**.
 
 # Current Focus:
-- ✒️ Focusing on my university coursework.
+- ✒️ Focusing on my university coursework
 - 💻 Strengthening my core programming skills in **C** and **C#**
 - 🎮 Learning **Game Development** with Unity
 - 📝 Documenting my learning journey and building mini-projects
